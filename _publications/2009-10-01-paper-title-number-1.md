@@ -3,7 +3,7 @@ title: "A Time Series Approach to Parkinson's Disease Classification from EEG"
 collection: publications
 permalink: https://arxiv.org/abs/2301.09568
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-23-01
+date: 2023-01-23
 venue: 'AAAI 2023 Health Intelligence Workshop'
 paperurl: 'https://arxiv.org/abs/2301.09568'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

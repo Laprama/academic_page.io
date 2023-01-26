@@ -13,7 +13,7 @@ I graduated from Imperial College London with an MSci Physics degree in 2015. I 
 As a PhD student at the University of Bristol my current research explores time series classification with healthcare data.  I am currently supervised by Dr. Zahraa Abdallah and Associate Professor Raul Santos-Rodriguez.
 
 
-Research Project
+Research Interests
 ======
 I am interested in applying machine learning methods to healthcare data in order to obtain valuable insights.  Healthcare data comes with a range of challenges which includes missingness, noise and multi-modality (doctors notes vs. accelerometer data!). 
 
