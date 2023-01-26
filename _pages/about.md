@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am bb
+I graduated from Imperial College London with an MSci Physics degree in 2015. I then worked for Goldman Sachs from 2015 to 2020 gaining a range of experience from project management to process modelling and business decision management. I particularly enjoyed building efficient and transparent decision models for transaction reporting. From here my interest in data analytics and machine learning grew. In 2019 I completed the Applied Data Science course at the University of Oxford before joining the Interactive AI CDT at the University of Bristol in 2020. 
+
+As a PhD student at the University of Bristol my current research explores time series classification with healthcare data.  I am currently supervised by Dr. Zahraa Abdallah and Associate Professor Raúl Santos-Rodríguez.
+
 
 Research Project
 ======
-I am researching how bb's become bb's because I didn't used to be a b but now I am bb
+I am interested in applying machine learning methods to healthcare data in order to obtain valuable insights.  Healthcare data comes with a range of challenges which includes missingness, noise and multi-modality (doctors notes vs. accelerometer data!). 
+
+Recently, I have been working with Electroencephalography (EEG) data to detect early stage Parkinson’s Disease.  Our methods achieved high performance on early stage classification and also found the prefrontal region of the brain to be the most discriminative in classification. This work will be presented at the Health Intelligence workshop at AAAI 2023, please read this [pre-print](https://arxiv.org/abs/2301.09568) for further information on this work. 
+
+I am also collaborating on the ContinUous behavioUral Biomarkers Of cognitive Impairment ([CUBOId](https://gtr.ukri.org/projects?ref=MC_PC_16029#/tabOverview))  project. This project aims to identify behaviour patterns that can detect dementia early and better monitor the progression of the disease via a sensor system installed in the home. Acceleration data and approximate location are recorded via a wrist worn wearable and passive sensors throughout the home record data on temperature, humidity, light and electricity. 
 
 <!---
 Site-wide configuration
