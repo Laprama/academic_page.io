@@ -15,7 +15,7 @@ As a PhD student at the University of Bristol my current research explores time 
 
 Research Interests
 ======
-I am interested in applying machine learning methods to healthcare data in order to obtain valuable insights.  Healthcare data comes with a range of challenges which includes missingness, noise and multi-modality (doctors notes vs. accelerometer data!). 
+I am interested in applying machine learning methods to time series healthcare data in order to obtain valuable insights.  Healthcare data comes with a range of challenges which includes missingness, noise and multi-modality (doctors notes vs. accelerometer data!). 
 
 Recently, I have been working with Electroencephalography (EEG) data to detect early stage Parkinson’s Disease.  Our methods achieved high performance on early stage classification and also found the prefrontal region of the brain to be the most discriminative in classification. This work will be presented at the Health Intelligence workshop at AAAI 2023, please read this [pre-print](https://arxiv.org/abs/2301.09568) for further information on this work. 
 

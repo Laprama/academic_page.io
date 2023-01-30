@@ -14,3 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<br>
+<h1 class="page__title">Projects</h1>
+
+Projects coming soon ... 
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}

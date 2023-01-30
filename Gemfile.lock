@@ -248,11 +248,14 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.10)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2022.7)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
+    webrick (1.8.1)
     zeitwerk (2.6.6)
 
 PLATFORMS
@@ -261,10 +264,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll
   jekyll-feed
   jekyll-sitemap
+  tzinfo-data
   wdm (~> 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.3.26
