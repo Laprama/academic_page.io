@@ -20,9 +20,8 @@ author_profile: true
 
 <h2 class="archive__item-title" itemprop="headline">
       
-        <a Deep Learning Methods for Disease Classification from EEG
-</a>
-     
+  Deep Learning Methods for Disease Classification from EEG
+    
 </h2>
 I am currently working with Deep Learning models for disease classification from EEG. This work includes exploring transformer based architectures, convolutional models and reservoir networks. Our goal is to produce a novel state of the art architecture for disease classification from EEG.
    
