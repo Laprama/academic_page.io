@@ -18,6 +18,14 @@ author_profile: true
 <br>
 <h1 class="page__title">Projects</h1>
 
+<h2 class="archive__item-title" itemprop="headline">
+      
+        <a Deep Learning Methods for Disease Classification from EEG
+</a>
+     
+</h2>
+I am currently working with Deep Learning models for disease classification from EEG. This work includes exploring transformer based architectures, convolutional models and reservoir networks. Our goal is to produce a novel state of the art architecture for disease classification from EEG.
+   
 
 <h2 class="archive__item-title" itemprop="headline">
       
@@ -26,8 +34,7 @@ biological age prediction
 </a>
      
 </h2>
-
-We completed a submission to the AAAI-2023 Hackathon. Details of our submission will be made available after the competition has closed.
+We won a prize of $250 for this work at the 2023 AAAI Health Intelligence Hackathon. Our work used a convolutional neural network to predict biological age from participant MRI images. We looked to improve existing age prediction models by ensuring features known to be unrelated to age were not being attended to by the model. 
 
    
 
