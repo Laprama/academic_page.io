@@ -3,8 +3,8 @@ title: "Investigating Brain Connectivity and Regional Statistics from EEG for ea
 collection: publications
 permalink: /publications/PD_EEG_paper_connectivity
 excerpt: "We evaluate the effectiveness of combining brain connectivity metrics with signal statistics for early stage Parkinson's Disease (PD) classification using electroencephalogram data (EEG). The data is from 5 arousal states - wakeful and four sleep stages (N1, N2, N3 and REM). Our pipeline uses an Ada Boost model for classification on a challenging early stage PD classification task with with only 30 participants (11 PD , 19 Healthy Control). Evaluating 9 brain connectivity metrics we find the best connectivity metric to be different for each arousal state with Phase Lag Index achieving the highest individual classification accuracy of 86% on N1 data. Further to this our pipeline using regional signal statistics achieves an accuracy of 78%, using brain connectivity only achieves an accuracy of 86% whereas combining the two achieves a best accuracy of 91%. This best performance is achieved on N1 data using Phase Lag Index (PLI) combined with statistics derived from the frequency characteristics of the EEG signal. This model also achieves a recall of 80% and precision of 96%. Furthermore we find that on data from each arousal state, combining PLI with regional signal statistics improves classification accuracy versus using signal statistics or brain connectivity alone. Thus we conclude that combining brain connectivity statistics with regional EEG statistics is optimal for classifier performance on early stage Parkinson's. Additionally, we find outperformance of N1 EEG for classification of Parkinson's and expect this could be due to disrupted N1 sleep in PD. This should be explored in future work."
-date:
-venue: "2024 IEEE International Workshop on Machine Learning for Signal Processing"
+date: 2024-09-09
+venue: "IEEE International Workshop on Machine Learning for Signal Processing"
 paperurl:
 citation: 
 ---
