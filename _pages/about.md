@@ -7,15 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In 2015 I graduated from Imperial College London with an MSci Physics degree after which I worked at Goldman Sachs for 5 years and developed an interest in data analytics and efficient decision modelling. In September 2020 I joined the interactive artificial intellgence CDT at the University of Bristol. After the research masters year 2020-2021 I completed my PhD from 2021-2025 and recently passed my viva! My thesis is titled 'Bridging Neuroscience and Machine Learning: EEG Classification for Parkinson’s Disease and Beyond'.
+In 2015 I graduated from Imperial College London with an MSci Physics degree after which I worked at Goldman Sachs for 5 years and developed an interest in data analytics and efficient decision modelling. In September 2020 I joined the Interactive Artificial Intellgence CDT at the University of Bristol. After the research masters year 2020-2021 I completed my PhD from 2021-2025 and recently passed my viva! My thesis is titled 'Bridging Neuroscience and Machine Learning: EEG Classification for Parkinson’s Disease and Beyond'.
 
 Research Interests
 ======
-I am interested in applying machine learning methods to time series healthcare data in order to obtain valuable insights.  Healthcare data comes with a range of challenges which includes missingness, noise and multi-modality (doctors notes vs. accelerometer data!). 
+My research focuses on applying machine learning to complex time series data to obtain insights through classification and forecasting. I am particularly drawn to the challenges inherent in real-world data, such as missingness, noise, and high dimensionality.
 
-Recently, I have been working with Electroencephalography (EEG) data to detect early stage Parkinson’s Disease.  Our method involving a novel transformation of the EEG data achieved high performance on early stage classification. This work was presented at the Health Intelligence workshop at AAAI 2024, please read this [pre-print](https://arxiv.org/pdf/2301.09568) for further information on this work. We also had a paper accepeted at the upcoming Machine Learning and Signal Processing (MLSP) 2024 conference where we investigate connectivity metrics combined with regional statistics for classification. Currently we are exploring deep learning methods for early stage Parkinson's classification including convolutional neural networks, reservoir networks and are working towards a novel acrhitecture for EEG classification. Please see [projects and publications](https://amarpal.net//publications/) for further details.
+I have extensive experience with Electroencephalography (EEG) data. In one project, we developed a classification method involving a novel transformation of the EEG data, achieving high performance on early-stage Parkinson's classification. This work was presented at the Health Intelligence workshop at AAAI 2024 (pre-print). We extended this research for the Machine Learning and Signal Processing (MLSP) 2024 conference, where we investigated combining connectivity metrics with regional statistics for classification (see [projects and publications](https://amarpal.net//publications/) for further details).
 
-I have also collaborated on the ContinUous behavioUral Biomarkers Of cognitive Impairment ([CUBOId](https://gtr.ukri.org/projects?ref=MC_PC_16029#/tabOverview))  project. This project aims to identify behaviour patterns that can detect dementia early and better monitor the progression of the disease via a sensor system installed in the home. Acceleration data and approximate location are recorded via a wrist worn wearable and passive sensors throughout the home record data on temperature, humidity, light and electricity. 
+More recently, we explored state-of-the-art deep learning methods for a range of EEG tasks, including emotion detection, mental workload, and eyes-open/closed classification. Our knowledge-based pipeline outperformed established deep learning architectures adapted for EEG, with the added advantage of interpretability via feature attribution. A pre-print of this paper is available [here](https://arxiv.org/pdf/2505.00541) . Below is a figure from this work showing the increased alpha band coherence observed on average for participants with their eyes closed versus open.
+
+[Your figure from the EEG paper will go here]
+
+My work also extends to other domains, such as applying data analysis and visualization techniques to atmospheric data. I have developed projects in Python and Unity to plot and visualize global climate trends over time. The animation below is from a Unity project featuring an interactive 3D visualization.
+
+[Your GIF from the climate modelling project will go here]
+
+Please see [projects and publications](https://amarpal.net//publications/) for further details on my work!
 
 <!---
 Site-wide configuration
