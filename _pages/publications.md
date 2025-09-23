@@ -20,10 +20,15 @@ author_profile: true
 
 <h2 class="archive__item-title" itemprop="headline">
       
-  Deep Learning Methods for Disease Classification from EEG
+  Interactive Earth Climate Visualisation in Unity
     
 </h2>
-I am currently working with Deep Learning models for disease classification from EEG. This work includes exploring transformer based architectures, convolutional models and reservoir networks. Our goal is to produce a novel state of the art architecture for disease classification from EEG.
+This project uses Python to process and visualize global atmospheric data from the TROPOMI satellite, specifically focusing on methane concentrations. The code cleans the data, handles land/sea masking, and generates high-resolution global map plots. These 2D map outputs are designed to be imported into Unity as materials for creating interactive 3D visualizations of climate trends.
+
+The github repo for plotting the atmospheric data can be accessed [here](https://github.com/Laprama/Climate_Data_Visualisation) and the Unity github repo [here](https://github.com/Laprama/Interactive_Earth_Climate_3D_Unity).
+
+![Unity Earth Demo](../images/Unity_Earth_Demo.gif)
+
    
 
 <h2 class="archive__item-title" itemprop="headline">

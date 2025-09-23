@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amarpal Sahota"
 title_separator          : "-"
 name                     : &name "Amarpal Sahota"
-description              : &description "PhD Student in Interactive AI"
+description              : &description "PhD in Interactive AI"
 url                      : https://amarpal.net/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Laprama/academic_page.io"
@@ -83,10 +83,10 @@ author:
   name             : "Amarpal Sahota"
   avatar           : "profile.png"
   bio              : "PhD Student in Interactive AI"
-  location         : "Bristol, UK"
+  location         : "Bristol/London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4wCyBHCH3ofcVc9nHR1-z6NQlSTuXbeE6N5djhtb1scAvcrUFTZ1K77CzgZ9y-21rNFFMOpYPRyLFmh_g&user=_JdEHgYAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Amarpal24114964"
+  twitter          : # "Amarpal24114964"
   vine             :
   weibo            :
   xing             :
