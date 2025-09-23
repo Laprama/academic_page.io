@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I graduated from Imperial College London with an MSci Physics degree in 2015. I then worked for Goldman Sachs from 2015 to 2020 gaining a range of experience from project management to process modelling and business decision management. I particularly enjoyed building efficient and transparent decision models for transaction reporting. From here my interest in data analytics and machine learning grew. In 2019 I completed the Applied Data Science course at the University of Oxford before joining the Interactive AI CDT at the University of Bristol in 2020. 
-
-As a PhD student at the University of Bristol my current research explores time series classification with healthcare data.  I am supervised by Dr. Zahraa Abdallah and Professor Raul Santos-Rodriguez.
-
+In 2015 I graduated from Imperial College London with an MSci Physics degree after which I worked at Goldman Sachs for 5 years and developed an interest in data analytics and efficient decision modelling. In September 2020 I joined the interactive artificial intellgence CDT at the University of Bristol. After the research masters year 2020-2021 I completed my PhD from 2021-2025 and recently passed my viva! My thesis is titled 'Bridging Neuroscience and Machine Learning: EEG Classification for Parkinson’s Disease and Beyond'.
 
 Research Interests
 ======
