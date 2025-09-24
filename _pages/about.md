@@ -19,7 +19,13 @@ I have extensive experience with Electroencephalography (EEG) data. In one proje
 
 More recently, we explored state-of-the-art deep learning methods for a range of EEG tasks, including emotion detection, mental workload, and eyes-open/closed classification. Our knowledge-based pipeline outperformed established deep learning architectures adapted for EEG, with the added advantage of interpretability via feature attribution. A pre-print of this paper is available [here](https://arxiv.org/pdf/2505.00541) . Below is a figure from this work showing the increased alpha band coherence observed on average for participants with their eyes closed versus open:
 
-![EEG Figure](../images/eyes_open_closed_2.png)
+
+<div style="text-align: center;">
+  <img src="../images/eyes_open_closed_2.png" alt="EEG Figure" width="600">
+  <br>
+  <br>
+</div>
+
 
 My work also extends to other domains, such as applying data analysis and visualization techniques to atmospheric data. I have developed projects in Python and Unity to plot and visualize global climate trends over time. The animation below is from a Unity project featuring interactive 3D visualization.
 
