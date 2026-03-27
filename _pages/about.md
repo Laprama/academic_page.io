@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In 2015 I graduated from Imperial College London with an MSci Physics degree after which I worked at Goldman Sachs for 5 years and developed an interest in data analytics and efficient decision modelling.
+I am a Research Associate at the University of Bristol, developing real-time Natural Language Processing (NLP) models for child mortality surveillance in collaboration with the NHS.
 
-In September 2020 I joined the Interactive Artificial Intellgence CDT at the University of Bristol. After the research masters year 2020-2021 I completed my PhD from 2021-2025 and recently passed my viva! My thesis is titled 'Bridging Neuroscience and Machine Learning: EEG Classification for Parkinson’s Disease and Beyond'.
+In 2015, I graduated from Imperial College London with an MSci in Physics, after which I worked at Goldman Sachs for five years and developed an interest in data analytics and efficient decision modelling.
+
+In September 2020, I joined the Interactive Artificial Intelligence CDT at the University of Bristol. Following a research master’s year (2020–2021), I completed my PhD (2021–2025) with a thesis titled ‘Bridging Neuroscience and Machine Learning: EEG Classification for Parkinson’s Disease and Beyond’. My doctoral research focused on the interpretable classification of Electroencephalography (EEG) data. While centered on early-stage Parkinson’s Disease, my work also extended to other tasks such as mental workload and emotion detection through the development of neuroscience-informed pipelines.
+
 
 Research Interests
 ======
@@ -17,7 +20,7 @@ My research focuses on applying machine learning to complex time series data to 
 
 I have extensive experience with Electroencephalography (EEG) data. In one project, we developed a classification method involving a novel transformation of the EEG data, achieving high performance on early-stage Parkinson's classification. This work was presented at the Health Intelligence workshop at AAAI 2024 [link](https://link.springer.com/chapter/10.1007/978-3-031-63592-2_17). We extended this research for the Machine Learning and Signal Processing (MLSP) 2024 conference, where we investigated combining connectivity metrics with regional statistics for classification (see [projects and publications](https://amarpal.net//publications/) for further details).
 
-More recently, we explored state-of-the-art deep learning methods for a range of EEG tasks, including emotion detection, mental workload, and eyes-open/closed classification. Our knowledge-based pipeline outperformed established deep learning architectures adapted for EEG, with the added advantage of interpretability via feature attribution. A pre-print of this paper is available [here](https://arxiv.org/pdf/2505.00541) . Below is a figure from this work showing the increased alpha band coherence observed on average for participants with their eyes closed versus open:
+We have also explored state-of-the-art deep learning methods for a range of EEG tasks, including emotion detection, mental workload, and eyes-open/closed classification. Our knowledge-based pipeline outperformed established deep learning architectures adapted for EEG, with the added advantage of interpretability via feature attribution. A pre-print of this paper is available [here](https://arxiv.org/pdf/2505.00541) . Below is a figure from this work showing the increased alpha band coherence observed on average for participants with their eyes closed versus open:
 
 
 <div style="text-align: center;">
@@ -30,6 +33,8 @@ More recently, we explored state-of-the-art deep learning methods for a range of
 My work also extends to other domains, such as applying data analysis and visualization techniques to atmospheric data. I have developed projects in Python and Unity to plot and visualize global climate trends over time. The animation below is from a Unity project featuring interactive 3D visualization.
 
 ![Unity Earth Demo](../images/Unity_Earth_Demo.gif)
+
+My current research involves developing NLP models for real time child mortality surveillance in collaboration with the NHS.
 
 Please see [projects and publications](https://amarpal.net//publications/) for further details on my work!
 

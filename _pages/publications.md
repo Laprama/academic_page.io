@@ -20,6 +20,13 @@ author_profile: true
 
 <h2 class="archive__item-title" itemprop="headline">
       
+  Explainable AI for Early Categorisation of Child Deaths: Real-Time Insights for Prevention
+    
+</h2>
+In collaboration with the NHS National Child Mortality Database (NCMD), I am developing proof-of-concept Natural Language Processing (NLP) models to support real-time child mortality surveillance in England. The project utilizes a dataset of approximately 17,000 completed reviews to develop multiclass classifiers on a combination of unstructured clinical text and structured demographic data. The primary objective is to automate the categorization of deaths into ten clinical classes, addressing the current lag of up to two years in the statutory review process.
+
+<h2 class="archive__item-title" itemprop="headline">
+      
   Interactive Earth Climate Visualisation in Unity
     
 </h2>
