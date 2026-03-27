@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amarpal Sahota"
+title                    : "Dr. Amarpal Sahota"
 title_separator          : "-"
-name                     : &name "Amarpal Sahota"
-description              : &description "PhD in Interactive AI"
+name                     : &name "Dr. Amarpal Sahota"
+description              : &description "ML Research | Time Series & NLP"
 url                      : https://amarpal.net/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Laprama/academic_page.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amarpal Sahota"
+  name             : "Dr. Amarpal Sahota"
   avatar           : "profile.png"
-  bio              : "PhD Student in Interactive AI"
+  bio              : "ML Research | Time Series & NLP"
   location         : "Bristol/London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
